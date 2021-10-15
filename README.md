@@ -2,8 +2,6 @@
 
 ## Table of Content
 
-- [<p align="center">Dice Roller</p>](#dice-roller)
-  - [Table of Content](#table-of-content)
 - [Introduction](#introduction)
 - [Environment](#environment)
 - [Galleries](#galleries)
